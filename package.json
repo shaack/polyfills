@@ -1,0 +1,25 @@
+{
+  "name": "@shaack/polyfills",
+  "version": "1.0.0",
+  "description": "My polyfills collection",
+  "main": "src",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaack/polyfills.git"
+  },
+  "keywords": [
+    "ie",
+    "ie6",
+    "polyfill",
+    "polyfills"
+  ],
+  "author": "shaack@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shaack/polyfills/issues"
+  },
+  "homepage": "https://github.com/shaack/polyfills#readme"
+}
